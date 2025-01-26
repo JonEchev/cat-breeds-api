@@ -1,4 +1,4 @@
-# com.proof.breed
+# cat-breeds-api
 
 Microservicio para el intercambio de datos a traves de REST para consulta a servicio externo de razas de gatos para la empresa Xpert Group.
 
@@ -20,7 +20,7 @@ Microservicio para el intercambio de datos a traves de REST para consulta a serv
 
 API que permite la consulta a servicio externo de razas de gatos.
 
-- En el documento: [1 Prueba Técnica - Backend Java.pdf](https://github.com/JonEchev/shopping-cart/blob/main/requirement_document/Evaluaci%C3%B3n%20T%C3%A9cnica%20Backend%20-%20OUM.pdf) se encuentra el requerimiento completo que se desarrollo para está API.
+- En el documento: [1 Prueba Técnica - Backend Java.pdf](https://github.com/JonEchev/cat-breeds-api/blob/main/requirement_document/1%20Prueba%20T%C3%A9cnica%20-%20Backend%20Java.pdf) se encuentra el requerimiento completo que se desarrollo para está API.
 
 ---
 
