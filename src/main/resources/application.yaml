@@ -1,0 +1,25 @@
+spring:
+  main:
+    allow-bean-definition-overriding: true
+
+services:
+  apikey: "live_JBT0Ah0Nt12iyl2IpjQVLDWjcLk0GQwf4zI9wBMfmfejKmcC31mOJp4yJz5TsOUP"
+  url: "https://api.thecatapi.com/v1/breeds"
+
+server:
+  error:
+    include-binding-errors: always
+    include-message: always
+  port: 80
+  address: 0.0.0.0
+  servlet:
+    context-path: /breeds
+management:
+  endpoints:
+    web:
+      base-path: /
+      path-mapping:
+        health: health
+
+info:
+  status: UP
