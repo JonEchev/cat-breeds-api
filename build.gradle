@@ -6,7 +6,7 @@ plugins {
 	id "org.sonarqube" version "3.0"
 }
 
-group = 'com.proof'
+group = 'cat.breeds'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '17'
 
